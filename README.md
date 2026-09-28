@@ -92,6 +92,7 @@ The pipeline also incorporates data-quality checks, Delta Lake processing, secur
 
 🔄 Data Pipeline stages
 
+https://github.com/PrathameshKurane/Fintech-Data-Project/blob/fa104186f49f7b3e15be363482b03abba47869fe/pipeline_stages.PNG
 
 ---
 1. Bronze — Raw Ingestion
