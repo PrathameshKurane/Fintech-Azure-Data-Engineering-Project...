@@ -106,6 +106,8 @@ Scores data quality per table (null-rate based) and flags tables falling below a
 Cleanses and standardizes each table — e.g., normalizing account types, capping invalid interest rates, trimming/casing text fields, correcting negative balances
 Enriches each table with derived business fields — customer segment/tier, account status/tier, loan risk category, transaction category/size, payment method grouping
 Writes using Delta MERGE (upsert) rather than overwrite, keyed on each table's primary key — making writes idempotent and safe to re-run without duplicating data
+
+
 3. Gold — Star Schema
 A second Databricks notebook builds an analytics-ready dimensional model:
 
