@@ -89,6 +89,10 @@ The pipeline also incorporates data-quality checks, Delta Lake processing, secur
 | Notifications     | Azure Logic Apps             |
 | Version Control   | Git / GitHub                 |
 
+
+🔄 Data Pipeline stages
+
+
 ---
 1. Bronze — Raw Ingestion
 An ADF pipeline dynamically discovers all tables in the source database (via INFORMATION_SCHEMA.TABLES) and copies each one into ADLS Gen2 as-is, using a parameterized ForEach loop — no hardcoded table list, so new source tables are picked up automatically.
