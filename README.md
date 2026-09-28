@@ -1,4 +1,3 @@
-# Fintech-Data-Project
 
 # Azure Fintech Data Engineering Pipeline
 
