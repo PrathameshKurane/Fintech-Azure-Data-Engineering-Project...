@@ -1,4 +1,4 @@
-# Fintech Data Project
+# Fintech Data Migration Project
 # Azure Data Engineering Pipeline
 
 An end-to-end Azure Data Engineering project that demonstrates how transactional fintech data can be ingested, transformed, validated, and prepared for analytics using **Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks, PySpark, Delta Lake, Unity Catalog, Azure Key Vault, and Logic Apps**.
