@@ -5,7 +5,7 @@ An end-to-end Azure Data Engineering project that demonstrates how transactional
 
 The project follows a **Medallion Architecture** with separate Bronze, Silver, and Gold layers to provide a structured and scalable approach to data processing.
 
----
+--
 
 ## 📌 Project Overview
 
